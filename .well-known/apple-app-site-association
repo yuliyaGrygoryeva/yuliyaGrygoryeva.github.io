@@ -4,7 +4,7 @@
 	{ "appID": "FRD38AYZF6.net.hdtracker.HDTracker.ios",
 	  "paths": ["/habit/*"]
 	},
-	{ "appID": "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker",
+	{ "appID": "FRD38AYZF.Yuliya-Grygoryeva.HDTester",
           "paths": ["/test/*"]
         },
         {
@@ -22,7 +22,7 @@
              ]
          },
 	 {
-          "appIDs": [  "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker" ],
+          "appIDs": [  "FRD38AYZF6.Yuliya-Grygoryeva.HDTester" ],
           "components": [
                {
                   "#": "no_universal_links",
