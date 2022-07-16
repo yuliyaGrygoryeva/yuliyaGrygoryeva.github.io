@@ -1,6 +1,12 @@
 {
   "applinks": {
       "details": [
+	{ "appID": "FRD38AYZF6.net.hdtracker.HDTracker.ios",
+	  "paths": ["/habit/*"]
+	},
+	{ "appID": "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker",
+          "paths": ["/habit/*"]
+        },
            {
              "appIDs": [ "FRD38AYZF6.net.hdtracker.HDTracker.ios", "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker" ],
              "components": [
