@@ -5,11 +5,11 @@
 	  "paths": ["/habit/*"]
 	},
 	{ "appID": "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker",
-          "paths": ["/habit/*"]
+          "paths": ["/test/*"]
         },
-           {
-             "appIDs": [ "FRD38AYZF6.net.hdtracker.HDTracker.ios", "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker" ],
-             "components": [
+        {
+          "appIDs": [ "FRD38AYZF6.net.hdtracker.HDTracker.ios"],
+          "components": [
                {
                   "#": "no_universal_links",
                   "exclude": true,
@@ -20,7 +20,21 @@
                   "comment": "Matches any URL whose path starts with /habit/"
                }
              ]
-           }
+         },
+	 {
+          "appIDs": [  "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker" ],
+          "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+               },
+               {
+                  "/": "/test/*",
+                  "comment": "Matches any URL whose path starts with /habit/"
+               }
+             ]
+         }
        ]
    }
 }
