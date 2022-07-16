@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "FRD38AYZF6.net.hdtracker.HDTracker.ios" ],
+             "appIDs": [ "FRD38AYZF6.net.hdtracker.HDTracker.ios", "FRD38AYZF6.Yuliya-Grygoryeva.HDTracker" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -16,9 +16,6 @@
              ]
            }
        ]
-   },
-    "applinks": {
-        "apps": ["FRD38AYZF6.net.hdtracker.HDTracker.ios"]
-    }
+   }
 }
 
