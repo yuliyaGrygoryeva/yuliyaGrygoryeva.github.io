@@ -1,0 +1,16 @@
+{
+ templates: [
+	{
+	 id: "758a8cd0-c426-4f77-a15f-0564097d3699",
+	 name: "Add new habit",
+	 description: "Add new habit to your list!",
+	 type: "HABIT"
+	},
+        {
+         id: "758a8cd0-c426-4f77-a15f-0564097d3699",
+         name: "Walk with dog",
+         description: "Walk with dog!!",
+         type: "HABIT"
+        }
+	]
+}
