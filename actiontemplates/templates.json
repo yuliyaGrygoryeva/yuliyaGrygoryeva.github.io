@@ -7,19 +7,22 @@
 				"id": "758a8cd0-c426-4f77-a15f-0564097d3619",
 				"name": "Walk with dog",
 				"description": "Walk with dog!!",
-				"type": "HABIT"
+				"type": "HABIT",
+				"image": "https://yuliyagrygoryeva.github.io/images/dog.jpg"
 			   }, 
 			   {
 				"id": "758a8cd0-c426-4f77-a15f-05qweqwmvmv9",
 				"name": "Push up",
 				"description": "Do one push up dayly",
-				"type": "HABIT"
+				"type": "HABIT",
+				"image": "https://yuliyagrygoryeva.github.io/images/push.jpg"
 			   },
 			   {
 				"id": "758a8cd0-c436-2222-a15f-4309ngfdamd",
 				"name": "Plank",
 				"description": "Do plank one minute",
-				"type": "HABIT"
+				"type": "HABIT",
+				"image": "https://yuliyagrygoryeva.github.io/images/plank.jpg"
 			   }
 		]
 	},
@@ -30,7 +33,8 @@
 				"id": "758a8cd0-c426-4f77-a15f-0564097d3699",
 				"name": "Add new habit",
 				"description": "Add new habit to your list!",
-				"type": "HABIT"
+				"type": "HABIT",
+				"image": "https://yuliyagrygoryeva.github.io/images/habit.jpg"
 			}
 		]
 	} 
